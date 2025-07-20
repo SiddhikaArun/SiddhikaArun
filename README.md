@@ -5,11 +5,11 @@
 
 I'm Siddhika Arunachalam, a data enthusiast with a career pursuit toward becoming a Data Analyst/Engineer, driven by a passion for uncovering insights and creating impactful solutions.
 
-Below are the DATA related projects I have done! 😄
+Below are some of the DATA related projects I have done! 😄
 
 ---
                                                                                                                                           
-### 📇 Some of the Data Projects are as follows:
+### 📇 Data Projects:
                                                                                                                                           
 - [ Accenture Data Analytics and Visualization Simulation ](https://github.com/SiddhikaArun/Accenture-Data-Analytics-and-Visualization-Forage-main/tree/main/Accenture-Data-Analytics-and-Visualization-Forage-main)
 - [ Power BI- Data Analytics Virtual Case Experience ](https://github.com/SiddhikaArun/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/tree/main/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience-main)
