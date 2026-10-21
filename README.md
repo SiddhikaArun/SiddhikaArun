@@ -10,7 +10,8 @@ Below are some of the DATA related projects I have done! 😄
 ---
                                                                                                                                           
 ### 📇 Data Projects:
-                                                                                                                                          
+
+- [ SafeContractor Analysis Power BI Slides with presentation](https://drive.google.com/drive/folders/1TiusC2nTxzJKWc8m5P7sMBl7Yc3R6k1u?usp=sharing)
 - [ Accenture Data Analytics and Visualization Simulation ](https://github.com/SiddhikaArun/Accenture-Data-Analytics-and-Visualization-Forage-main/tree/main/Accenture-Data-Analytics-and-Visualization-Forage-main)
 - [ Power BI- Data Analytics Virtual Case Experience ](https://github.com/SiddhikaArun/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/tree/main/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience-main)
 - [ Data Science Job Simulation ](https://github.com/SiddhikaArun/BCG-Data-Science-Job-Simulation-Forage--main)                                                                         
